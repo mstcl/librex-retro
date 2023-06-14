@@ -1,0 +1,41 @@
+input, html, body, h1, a, h2, p, button {
+    font-family: "Source Serif Pro" !important;
+}
+
+.text-result-wrapper h2 {
+    color: #0000cc;
+}
+
+.text-result-wrapper a {
+    color: #1d8e1d !important;
+}
+
+.X {
+    color: #24842d;
+}
+
+.logomobile .no-decoration {
+    color: black;
+}
+
+.search-container input, .sub-search-container input {
+    border-radius: 0px !important;
+    border-style: inset !important;
+    border-width: 2px !important;
+    height: 28px !important;
+    margin-top: 30px;
+    padding: 0px 4px !important;
+}
+
+.sub-search-button-wrapper a img {
+    display: none !important;
+}
+
+.text-result-wrapper a:visited h2, .special-result-container a, .sub-search-button-wrapper a, .sub-search-button-wrapper a:visited {
+    color: #0000cc;
+}
+
+.sub-search-button-wrapper .active {
+    border-color: #0000cc;
+    border-width: 1.5px;
+}
